@@ -4,6 +4,7 @@ export(
   bootindex_movingblock,
   bootindex_stationary,
   clarkwest,
+  clarkwest_calculation,
   CT,
   dmw_calculation,
   dmw_mse,
